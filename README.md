@@ -59,4 +59,4 @@ Um aplicativo de chat em tempo real simples e moderno, desenvolvido para consoli
 
 ---
 
-_Desenvolvido durante o Módulo 03 da Formação Python._
+_Desenvolvido durante a Formação Python._
